@@ -22,3 +22,15 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+chapter7/.project
+chapter7/configserver/.project
+chapter7/eurekaserver/.project
+chapter7/licensing-service/.project
+chapter7/organization-service/.classpath
+chapter7/organization-service/.factorypath
+chapter7/organization-service/.project
+chapter7/organization-service/.settings/org.eclipse.core.resources.prefs
+chapter7/organization-service/.settings/org.eclipse.jdt.apt.core.prefs
+chapter7/organization-service/.settings/org.eclipse.jdt.core.prefs
+chapter7/organization-service/.settings/org.springframework.ide.eclipse.prefs
+chapter7/organization-service/target/classes/META-INF/MANIFEST.MF
